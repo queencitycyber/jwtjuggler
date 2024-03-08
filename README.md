@@ -95,4 +95,4 @@ Acknowledgements & Shoutouts
 Contributing
 ---
 
-Contributions to AuthExaminer are welcome! Please submit pull requests or open issues to suggest improvements or report bugs.
+Contributions to JWTJuggler are welcome! Please submit pull requests or open issues to suggest improvements or report bugs.
