@@ -1,0 +1,14 @@
+{
+  "user1": {
+    "username": "user1@example.com",
+    "password": "password123"
+  },
+  "user2": {
+    "username": "user2@example.com",
+    "password": "password456"
+  },
+  "login_endpoint": "http://localhost:8080/login",
+  "base_url": "http://localhost:8080",
+  "proxy": "http://your-proxy-server:port",
+  "endpoints_file": "endpoints.txt"
+}
