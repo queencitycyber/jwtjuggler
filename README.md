@@ -80,7 +80,9 @@ Output
 ---
 
 The default output is color-coded table displayed in the terminal. Here's an example of what you might see:
-![image](https://github.com/queencitycyber/jwtjuggler/assets/13237617/35bcc169-7ace-4c70-92a2-349bb364f31b)
+
+![image](https://github.com/queencitycyber/jwtjuggler/assets/13237617/ad51d671-f35c-4630-b98e-b828728c7e6a)
+
 
 
 For JSON or CSV outputs, files will be generated in the current directory with the results of the test in the specified format.
